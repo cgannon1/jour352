@@ -1,0 +1,198 @@
+/* font-family: "Raleway", sans-serif; */
+#headline p {
+font-size: 16px;
+font-family: "Veranda", sans-serif;
+color: #808080;
+text-align: center;
+}
+
+#logo img {
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 50%;
+}
+
+#dek h2 {
+text-align: center;
+color: #778899 font-size: 20px;
+font-family: "Veranda", sans-serif;
+border-style: dotted;
+border-color: #D3D3D3;
+}
+
+#description p {
+text-align: center;
+color: #778899 font-family: "Veranda", sans-serif;
+font-size: 16px;
+}
+
+#Appetizers h3 {
+text-align: left;
+color: #8B0000;
+font-size: 20px;
+font-family: "Veranda", sans-serif;
+border-bottom-style: dotted;
+border-bottom-color: #D3D3D3;
+}
+
+.Appetizers h5 {
+text-align: left;
+font-size: 16px;
+font-family: "Veranda", sans-serif;
+font-weight: bold;
+}
+
+.Appetizers p {
+text-align: left;
+font-size: 16px;
+font-family: "Veranda", sans-serif;
+}
+
+.price h5 {
+text-align: left;
+font-size: 16px;
+font-family: "Veranda", sans-serif;
+font-weight: bold;
+font-style: italic;
+}
+
+#ChickenWings {
+text-align: left;
+font-size: 16px;
+font-family: "Veranda", sans-serif;
+border-style: dotted;
+border-color: #D3D3D3;
+background-color: #778899;
+}
+
+#salad {
+text-align: left;
+font-size: 16px;
+font-family: "Veranda", sans-serif;
+color: #D3D3D3;
+font-style: italic;
+}
+
+#Housemade {
+text-align: left;
+color: #8B0000;
+font-size: 20px;
+font-family: "Veranda", sans-serif;
+border-bottom-style: dotted;
+border-bottom-color: #D3D3D3;
+}
+
+.Pizzas h5 {
+text-align: left;
+font-size: 16px;
+font-family: "Veranda", sans-serif;
+font-weight: bold;
+}
+
+.Pizzas {
+text-align: left;
+font-size: 16px;
+font-family: "Veranda", sans-serif;
+}
+
+#Smoked {
+text-align: left;
+font-size: 16px;
+font-family: "Veranda", sans-serif;
+border-style: dotted;
+border-color: #D3D3D3;
+background-color: #778899;
+}
+
+#Toppings {
+text-align: left;
+font-size: 16px;
+font-family: "Veranda", sans-serif;
+color: #D3D3D3;
+font-style: italic;
+}
+
+.Sandwiches {
+text-align: left;
+font-size: 16px;
+font-family: "Veranda", sans-serif;
+}
+
+.Sandwiches h5 {
+text-align: left;
+font-size: 16px;
+font-family: "Veranda", sans-serif;
+font-weight: bold;
+}
+
+#Meatball {
+text-align: left;
+font-size: 16px;
+font-family: "Veranda", sans-serif;
+border-style: dotted;
+border-color: #D3D3D3;
+background-color: #778899;
+}
+
+#Black {
+text-align: left;
+font-size: 16px;
+font-family: "Veranda", sans-serif;
+border-style: dotted;
+border-color: #D3D3D3;
+background-color: #778899;
+}
+
+#Pastas {
+text-align: left;
+color: #8B0000;
+font-size: 20px;
+font-family: "Veranda", sans-serif;
+border-bottom-style: dotted;
+border-bottom-color: #D3D3D3;
+}
+
+.Pastas {
+text-align: left;
+font-size: 16px;
+font-family: "Veranda", sans-serif;
+}
+
+#Redmoor {
+text-align: left;
+font-size: 16px;
+font-family: "Veranda", sans-serif;
+border-style: dotted;
+border-color: #D3D3D3;
+background-color: #778899;
+}
+
+#Sides {
+text-align: left;
+color: #8B0000;
+font-size: 20px;
+font-family: "Veranda", sans-serif;
+border-bottom-style: dotted;
+border-bottom-color: #D3D3D3;
+}
+
+.Sides {
+text-align: left;
+font-size: 16px;
+font-family: "Veranda", sans-serif;
+}
+
+.footnotes {
+text-align: left;
+color: #778899
+  font-family: "Veranda", sans-serif;
+font-size: 16px;
+}
+
+#Book {
+text-align: left;
+font-size: 16px;
+font-family: "Veranda", sans-serif;
+font-weight: bold;
+}
