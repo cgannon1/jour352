@@ -13,7 +13,7 @@ margin-right: auto;
 width: 50%;
 }
 
-#dek h2 {
+#decorations h2 {
 text-align: center;
 color: #778899 font-size: 20px;
 font-family: "Veranda", sans-serif;
@@ -21,13 +21,13 @@ border-style: dotted;
 border-color: #D3D3D3;
 }
 
-#description p {
+#descriptiontop p {
 text-align: center;
 color: #778899 font-family: "Veranda", sans-serif;
 font-size: 16px;
 }
 
-#Appetizers h3 {
+#appetizers h3 {
 text-align: left;
 color: #8B0000;
 font-size: 20px;
@@ -36,14 +36,14 @@ border-bottom-style: dotted;
 border-bottom-color: #D3D3D3;
 }
 
-.Appetizers h5 {
+.appetizers h5 {
 text-align: left;
 font-size: 16px;
 font-family: "Veranda", sans-serif;
 font-weight: bold;
 }
 
-.Appetizers p {
+.appetizers p {
 text-align: left;
 font-size: 16px;
 font-family: "Veranda", sans-serif;
@@ -57,7 +57,7 @@ font-weight: bold;
 font-style: italic;
 }
 
-#ChickenWings {
+#wings {
 text-align: left;
 font-size: 16px;
 font-family: "Veranda", sans-serif;
@@ -74,7 +74,7 @@ color: #D3D3D3;
 font-style: italic;
 }
 
-#Housemade {
+#housemadepizza {
 text-align: left;
 color: #8B0000;
 font-size: 20px;
@@ -83,20 +83,20 @@ border-bottom-style: dotted;
 border-bottom-color: #D3D3D3;
 }
 
-.Pizzas h5 {
+.pizzas h5 {
 text-align: left;
 font-size: 16px;
 font-family: "Veranda", sans-serif;
 font-weight: bold;
 }
 
-.Pizzas {
+.pizzas {
 text-align: left;
 font-size: 16px;
 font-family: "Veranda", sans-serif;
 }
 
-#Smoked {
+#chickenpizza {
 text-align: left;
 font-size: 16px;
 font-family: "Veranda", sans-serif;
@@ -105,7 +105,7 @@ border-color: #D3D3D3;
 background-color: #778899;
 }
 
-#Toppings {
+#toppings {
 text-align: left;
 font-size: 16px;
 font-family: "Veranda", sans-serif;
@@ -113,20 +113,20 @@ color: #D3D3D3;
 font-style: italic;
 }
 
-.Sandwiches {
+.sandwiches {
 text-align: left;
 font-size: 16px;
 font-family: "Veranda", sans-serif;
 }
 
-.Sandwiches h5 {
+.sandwiches h5 {
 text-align: left;
 font-size: 16px;
 font-family: "Veranda", sans-serif;
 font-weight: bold;
 }
 
-#Meatball {
+#meatballs {
 text-align: left;
 font-size: 16px;
 font-family: "Veranda", sans-serif;
@@ -135,7 +135,7 @@ border-color: #D3D3D3;
 background-color: #778899;
 }
 
-#Black {
+#blackburger {
 text-align: left;
 font-size: 16px;
 font-family: "Veranda", sans-serif;
@@ -144,7 +144,7 @@ border-color: #D3D3D3;
 background-color: #778899;
 }
 
-#Pastas {
+#pastas {
 text-align: left;
 color: #8B0000;
 font-size: 20px;
@@ -153,13 +153,13 @@ border-bottom-style: dotted;
 border-bottom-color: #D3D3D3;
 }
 
-.Pastas {
+.pastas {
 text-align: left;
 font-size: 16px;
 font-family: "Veranda", sans-serif;
 }
 
-#Redmoor {
+#redmoorpasta {
 text-align: left;
 font-size: 16px;
 font-family: "Veranda", sans-serif;
@@ -168,7 +168,7 @@ border-color: #D3D3D3;
 background-color: #778899;
 }
 
-#Sides {
+#sides {
 text-align: left;
 color: #8B0000;
 font-size: 20px;
@@ -177,7 +177,7 @@ border-bottom-style: dotted;
 border-bottom-color: #D3D3D3;
 }
 
-.Sides {
+.sides {
 text-align: left;
 font-size: 16px;
 font-family: "Veranda", sans-serif;
@@ -190,7 +190,7 @@ color: #778899
 font-size: 16px;
 }
 
-#Book {
+#bookwithus {
 text-align: left;
 font-size: 16px;
 font-family: "Veranda", sans-serif;
