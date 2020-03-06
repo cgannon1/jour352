@@ -1,0 +1,87 @@
+#content{
+  margin: 0 auto;
+  width: 740px;
+}
+
+/* Try to align all three of the graphics on the same line, or at least 2 */
+
+#byline{
+font-family: "Noto Serif JP", serif;
+font-size: 14px;
+font-weight: bold;
+
+}
+
+#date{
+  font-family:"Noto Serif JP", serif;
+  font-weight: normal;
+  color: #808080;
+}
+
+.headline{
+  font-family: "Noto Serif JP", serif;
+  font-size: 36px
+}
+
+.subheader{
+  font-family: "Noto Serif JP", serif;
+  font-size: 20px
+}
+
+
+.body{
+  font-family: "Noto Sans",helvetica, arial, sans-serif;
+  font-size: 16px;
+}
+
+
+.links{
+  font-style: italic;
+}
+
+#circle-map{
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 50%;
+}
+
+.image{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+
+.image2{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.column{
+flex: 33.33%;
+padding: 5px;
+}
+
+.row {
+display: flex;
+}
+
+.caption {
+font-size: 12px;
+font-weight: bold;
+}
+
+#blockquote{
+  font: 24px normal helvetica, sans-serif;
+  font-style: italic;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  color: white;
+  margin-left: 50px;
+  padding-left: 15px;
+  border-left: 4px solid #ccc;
+  background-color: #A9A9A9;
+}
